@@ -637,4 +637,64 @@ h4{
 
 a {
   text-decoration: none;
+
+}
+
+@media only screen and (max-width: 768px){
+  header{
+    width: 92%;
+    border-radius: 15px;
+    padding-left: 15px;
+    padding-right: 10px;
+  }
+
+  header a{
+    font-size: 12px;
+  }
+
+  p{
+    font-size: 12px;
+  }
+
+  h1{
+    font-size: 14px;
+  }
+
+  #bienvenida h3{
+    width: 90%;
+    font-size: 13px;
+  }
+
+  #info{
+    width: 76%;
+    margin-top: -20%;
+  }
+
+  h2{
+    font-size: 22px;
+  }
+
+  h4{
+    font-size: 15px;
+    width: 100%;
+  }
+
+  .proverbios{
+    width: 100%;
+  }
+
+  #misionvision{
+    margin-top: 125%;
+    padding-top: 50px;
+  }
+
+  #mision{
+    padding-top: 50px;
+  }
+
+  #pilar{
+    width: 82%;
+    height: auto;
+    padding-bottom: 50px;
+  }
 }
