@@ -637,8 +637,9 @@ h4{
 
 a {
   text-decoration: none;
-
 }
+
+/* Versión Móvil */
 
 @media only screen and (max-width: 768px){
   header{
